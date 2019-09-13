@@ -1,0 +1,650 @@
+13.09 07:53:17 [PebbleHost] Starting server!
+13.09 07:53:17 [PebbleHost Loader] -----------------------------------
+13.09 07:53:17 [PebbleHost Loader] PebbleHost Server Loader Starting...
+13.09 07:53:17 [PebbleHost Loader] The following settings have been detected: RAM: -Xmx4096M, JAR: spigot-1.14.4.jar, SERVERID: -----, SIZE: 4.7G
+13.09 07:53:17 [PebbleHost Loader] Testing server configuration...
+13.09 07:53:17 [PebbleHost Loader] Server loader version: v3.0.0 (using configuration version v1.3)
+13.09 07:53:17 [PebbleHost Loader] Jar passed checksum check
+13.09 07:53:18 [PebbleHost Loader] Jar passed composition check
+13.09 07:53:19 [PebbleHost Loader] Jar passed size check
+13.09 07:53:19 [PebbleHost Loader] WARN Port warning (3242)
+13.09 07:53:19 [PebbleHost Loader] Server passed size check
+13.09 07:53:19 [PebbleHost Loader] Server passed file check
+13.09 07:53:19 [PebbleHost Loader] Configuring your servers settings...
+13.09 07:53:19 [PebbleHost Loader] Server passed all checks, Booting...
+13.09 07:53:19 [PebbleHost Loader] -----------------------------------
+13.09 07:53:19 [Server] INFO *** Error, this build is outdated ***
+13.09 07:53:19 [Server] INFO *** Please download a new build as per instructions from https://www.spigotmc.org/go/outdated-spigot ***
+13.09 07:53:19 [Server] INFO *** Server will start in 20 seconds ***
+13.09 07:53:39 [Server] INFO Loading libraries, please wait...
+13.09 07:53:43 [Server] Server thread/INFO Starting minecraft server version 1.14.4
+13.09 07:53:43 [Server] Server thread/INFO Loading properties
+13.09 07:53:44 [Server] Server thread/INFO This server is running CraftBukkit version git-Spigot-9de398a-9c887d4 (MC: 1.14.4) (Implementing API version 1.14.4-R0.1-SNAPSHOT)
+13.09 07:53:44 [Server] Server thread/INFO Server Ping Player Sample Count: 12
+13.09 07:53:44 [Server] Server thread/INFO Using 4 threads for Netty based IO
+13.09 07:53:44 [Server] Server thread/INFO Debug logging is disabled
+13.09 07:53:44 [Server] Server thread/INFO Default game type: SURVIVAL
+13.09 07:53:44 [Server] Server thread/INFO Generating keypair
+13.09 07:53:44 [Server] Server thread/INFO Starting Minecraft server on 178.32.100.102:25570
+13.09 07:53:44 [Server] Server thread/INFO Using epoll channel type
+13.09 07:53:44 [Server] Server thread/ERROR Ambiguous plugin name `WorldEdit' for files `plugins/worldedit-bukkit-7.0.1.jar' and `plugins/FastAsyncWorldEdit-bukkit-1.13.178.jar' in `plugins'
+13.09 07:53:48 [Server] Server thread/WARN Plugin NametagEdit v4.4.0 does not specify an api-version.
+13.09 07:53:48 [Server] Server thread/WARN Plugin ProtocolLib v4.4.0 does not specify an api-version.
+13.09 07:53:48 [Server] Server thread/WARN Plugin LibsDisguises v9.1.2 does not specify an api-version.
+13.09 07:53:48 [Server] Server thread/WARN Plugin DiamondHunter v3.0.1 does not specify an api-version.
+13.09 07:53:48 [Server] Server thread/WARN Plugin NoMobGriefing v0.2.1 does not specify an api-version.
+13.09 07:53:48 [Server] Server thread/WARN Plugin Holograms v2.9.1-SNAPSHOT does not specify an api-version.
+13.09 07:53:48 [Server] Server thread/INFO [CoreProtect] Loading CoreProtect v2.17.5
+13.09 07:53:48 [Server] Server thread/INFO [WorldEdit] Loading WorldEdit v7.0.1;61bc012
+13.09 07:53:49 [Server] Server thread/INFO Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@507cba73]
+13.09 07:53:49 [Server] Server thread/INFO [OreReplacerPlugin] Loading OreReplacerPlugin v1.0.1.13.16a
+13.09 07:53:49 [Server] Server thread/INFO [SAML] Loading SAML v1.3.5
+13.09 07:53:49 [Server] Server thread/INFO [GroupManager] Loading GroupManager v0.2.0
+13.09 07:53:49 [Server] Server thread/INFO [NametagEdit] Loading NametagEdit v4.4.0
+13.09 07:53:49 [Server] Server thread/INFO [Horizon] Loading Horizon v1.4.6-Hotfix#8
+13.09 07:53:49 [Server] Server thread/INFO [WorldGuard] Loading WorldGuard v7.0.0;02b731f
+13.09 07:53:49 [Server] Server thread/INFO [ProtocolLib] Loading ProtocolLib v4.4.0
+13.09 07:53:49 [Server] Server thread/WARN [ProtocolLib] Version (MC: 1.14.4) has not yet been tested! Proceed with caution.
+13.09 07:53:49 [Server] Server thread/INFO [LibsDisguises] Loading LibsDisguises v9.1.2
+13.09 07:53:49 [Server] Server thread/INFO [DiamondHunter] Loading DiamondHunter v3.0.1
+13.09 07:53:49 [Server] Server thread/INFO [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v1.13-breaking
+13.09 07:53:49 [Server] Server thread/INFO [VoidGenerator] Loading VoidGenerator v1.4.2
+13.09 07:53:49 [Server] Server thread/INFO [NoMobGriefing] Loading NoMobGriefing v0.2.1
+13.09 07:53:49 [Server] Server thread/INFO [NoteBlockAPI] Loading NoteBlockAPI v1.4.4
+13.09 07:53:49 [Server] Server thread/INFO [ConditionalCommands] Loading ConditionalCommands v1.5
+13.09 07:53:49 [Server] Server thread/INFO [mcMMO] Loading mcMMO v2.1.106
+13.09 07:53:49 [Server] Server thread/INFO mcMMO has registered WG flags successfully!
+13.09 07:53:49 [Server] Server thread/INFO [NewGods] Loading NewGods v2.3.3
+13.09 07:53:49 [Server] Server thread/INFO [Vault] Loading Vault v1.7.2-b107
+13.09 07:53:49 [Server] Server thread/INFO [Essentials] Loading Essentials v2.17.0.0
+13.09 07:53:49 [Server] Server thread/INFO [UltraCosmetics] Loading UltraCosmetics v2.5.5
+13.09 07:53:49 [Server] Server thread/INFO [Jobs] Loading Jobs v4.13.1
+13.09 07:53:49 [Server] Server thread/INFO [PerWorldInventory] Loading PerWorldInventory v2.3.1
+13.09 07:53:49 [Server] Server thread/INFO [PlotSquared] Loading PlotSquared v4.347
+13.09 07:53:49 [Server] Server thread/INFO [BuycraftX] Loading BuycraftX v12.0.2
+13.09 07:53:49 [Server] Server thread/INFO [Multiverse-Core] Loading Multiverse-Core v4.1.0-b775
+13.09 07:53:49 [Server] Server thread/INFO [Holograms] Loading Holograms v2.9.1-SNAPSHOT
+13.09 07:53:49 [Server] Server thread/INFO [Citizens] Loading Citizens v2.0.25-SNAPSHOT (build 1745)
+13.09 07:53:49 [Server] Server thread/INFO [EssentialsChat] Loading EssentialsChat v2.17.0.0
+13.09 07:53:49 [Server] Server thread/INFO [TreeAssist] Loading TreeAssist v6.0.72
+13.09 07:53:49 [Server] Server thread/INFO [EssentialsSpawn] Loading EssentialsSpawn v2.17.0.0
+13.09 07:53:49 [Server] Server thread/INFO [MobHunting] Loading MobHunting v6.8.9
+13.09 07:53:49 [Server] Server thread/INFO [CompatNoCheatPlus] Loading CompatNoCheatPlus v6.6.5-RC-sMD5NET-b90
+13.09 07:53:49 [Server] Server thread/INFO [WarpSystem] Loading WarpSystem v3.1.13
+13.09 07:53:49 [Server] Server thread/INFO [NoCheatPlus] Loading NoCheatPlus v3.16.1-SNAPSHOT-b5.1.1
+13.09 07:53:49 [Server] Server thread/INFO [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+13.09 07:53:50 [Server] Server thread/INFO [NoCheatPlus] Logging system initialized.
+13.09 07:53:50 [Server] Server thread/INFO [NoCheatPlus] Detected Minecraft version: 1.14.4
+13.09 07:53:50 [Server] Server thread/INFO [WorldEdit] Enabling WorldEdit v7.0.1;61bc012
+13.09 07:53:50 [Server] Server thread/INFO WEPIF: Using the Bukkit Permissions API.
+13.09 07:53:50 [Server] Server thread/INFO Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_14_R4 as the Bukkit adapter
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit] ====================================================
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit]  WorldEdit works better if you use Paper 
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit]  as your server software. 
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit]   
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit]  Paper offers significant performance improvements,
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit]  bug fixes, security enhancements and optional
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit]  features for server owners to enhance their server.
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit]   
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit]  Paper includes Timings v2, which is significantly
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit]  better at diagnosing lag problems over v1.
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit]   
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit]  All of your plugins should still work, and the
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit]  Paper community will gladly help you fix any issues.
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit]   
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit]  Join the Paper Community @ https://papermc.io
+13.09 07:53:50 [Server] Server thread/WARN [WorldEdit] ====================================================
+13.09 07:53:50 [Server] Server thread/INFO [ProtocolLib] Enabling ProtocolLib v4.4.0
+13.09 07:53:50 [Server] Server thread/INFO [ProtocolLib] Started structure compiler thread.
+13.09 07:53:50 [Server] Server thread/INFO [VoidGenerator] Enabling VoidGenerator v1.4.2
+13.09 07:53:50 [Server] Server thread/INFO [mcMMO] Enabling mcMMO v2.1.106
+13.09 07:53:50 [Server] Server thread/INFO [mcMMO] enabling Acrobatics Skills
+13.09 07:53:50 [Server] Server thread/INFO [mcMMO] registered subskill: Roll
+13.09 07:53:51 [Server] Server thread/INFO [mcMMO] 0 entries in mcMMO World Blacklist
+13.09 07:53:51 [Server] Server thread/INFO [Vault] Enabling Vault v1.7.2-b107
+13.09 07:53:51 [Server] Server thread/INFO [Vault] [Economy] Essentials Economy found: Waiting
+13.09 07:53:51 [Server] Server thread/INFO [Vault] [Permission] GroupManager found: Waiting
+13.09 07:53:51 [Server] Server thread/INFO [Vault] [Permission] SuperPermissions loaded as backup permission system.
+13.09 07:53:51 [Server] Server thread/INFO [Vault] [Chat] GroupManager found: Waiting
+13.09 07:53:51 [Server] Server thread/INFO [Vault] Enabled Version 1.7.2-b107
+13.09 07:53:51 [Server] Server thread/INFO WEPIF: Vault detected! Using Vault for permissions
+13.09 07:53:51 [Server] Server thread/INFO [PlotSquared] Enabling PlotSquared v4.347
+13.09 07:53:51 [Server] Server thread/WARN [PlotSquared] ====================================================
+13.09 07:53:51 [Server] Server thread/WARN [PlotSquared]  PlotSquared works better if you use Paper 
+13.09 07:53:51 [Server] Server thread/WARN [PlotSquared]  as your server software. 
+13.09 07:53:51 [Server] Server thread/WARN [PlotSquared] ====================================================
+13.09 07:53:51 [Server] Server thread/INFO Version is PlotSquared-4.347
+13.09 07:53:51 [Server] Server thread/INFO [P2]  PlotSquared is using online UUIDs
+13.09 07:53:51 [Server] Server thread/INFO class com.github.intellectualsites.plotsquared.bukkit.util.SendChunk does not support ( 1,14,4 )
+13.09 07:53:51 [Server] Server thread/INFO PlotSquared Scripting Test
+13.09 07:53:51 [Server] Server thread/INFO PlotSquared hooked into WorldEdit.
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: plot-expiry, Value: false
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: kill-road-mobs, Value: false
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: kill-road-items, Value: false
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: worlds, Value: false
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: worldedit-restrictions, Value: true
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: database-purger, Value: false
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: economy, Value: true
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: block-cache, Value: true
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: kill-road-vehicles, Value: false
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: persistent-meta, Value: true
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: ban-deleter, Value: false
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: updater, Value: true
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: database, Value: true
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: prevent-unsafe, Value: true
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: permission-cache, Value: true
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: rating-cache, Value: true
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: comment-notifier, Value: false
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: metrics, Value: true
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: chunk-processor, Value: false
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: uuid-cache, Value: true
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: events, Value: true
+13.09 07:53:51 [Server] Server thread/INFO [P2] Key: commands, Value: true
+13.09 07:53:51 [Server] Server thread/INFO PlotSquared is now enabled
+13.09 07:53:51 [Server] Server thread/INFO [P2] Metrics enabled.
+13.09 07:53:51 [Server] Server thread/INFO Preparing level "world"
+13.09 07:53:51 [Server] Server thread/INFO Reloading ResourceManager: Default, bukkit
+13.09 07:53:52 [Server] Server thread/INFO Loaded 6 recipes
+13.09 07:53:52 [Server] Server thread/INFO -------- World Settings For [world] --------
+13.09 07:53:52 [Server] Server thread/INFO Mob Spawn Range: 6
+13.09 07:53:52 [Server] Server thread/INFO Experience Merge Radius: 3.0
+13.09 07:53:52 [Server] Server thread/INFO Cactus Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO Cane Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO Melon Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO Mushroom Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO Pumpkin Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO Sapling Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO Beetroot Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO Carrot Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO Potato Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO Wheat Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO NetherWart Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO Vine Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO Cocoa Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO Bamboo Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO SweetBerry Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO Kelp Growth Modifier: 100%
+13.09 07:53:52 [Server] Server thread/INFO Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+13.09 07:53:52 [Server] Server thread/INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+13.09 07:53:52 [Server] Server thread/INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+13.09 07:53:52 [Server] Server thread/INFO Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+13.09 07:53:52 [Server] Server thread/INFO Max TNT Explosions: 100
+13.09 07:53:52 [Server] Server thread/INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+13.09 07:53:52 [Server] Server thread/INFO View Distance: 16
+13.09 07:53:52 [Server] Server thread/INFO Allow Zombie Pigmen to spawn from portal blocks: true
+13.09 07:53:52 [Server] Server thread/INFO Item Despawn Rate: 6000
+13.09 07:53:52 [Server] Server thread/INFO Item Merge Radius: 2.5
+13.09 07:53:52 [Server] Server thread/INFO Arrow Despawn Rate: 1200
+13.09 07:53:52 [Server] Server thread/INFO Zombie Aggressive Towards Villager: true
+13.09 07:53:52 [Server] Server thread/INFO Nerfing mobs spawned from spawners: false
+13.09 07:53:52 [Server] Server thread/INFO Preparing start region for dimension 'world'/minecraft:overworld
+13.09 07:53:52 [Server] Server thread/INFO Preparing spawn area: 0%
+13.09 07:53:52 [Server] Server thread/INFO Preparing spawn area: 0%
+13.09 07:53:53 [Server] Server thread/INFO Time elapsed: 752 ms
+13.09 07:53:53 [Server] Server thread/INFO Preparing start region for dimension 'world_nether'/minecraft:the_nether
+13.09 07:53:53 [Server] Server thread/INFO Preparing spawn area: 0%
+13.09 07:53:53 [Server] Server thread/INFO Time elapsed: 445 ms
+13.09 07:53:53 [Server] Server thread/INFO Preparing start region for dimension 'world_the_end'/minecraft:the_end
+13.09 07:53:53 [Server] Server thread/INFO Preparing spawn area: 0%
+13.09 07:53:53 [Server] Server thread/INFO Time elapsed: 196 ms
+13.09 07:53:53 [Server] Server thread/INFO [CoreProtect] Enabling CoreProtect v2.17.5
+13.09 07:53:53 [Server] Server thread/INFO [CoreProtect] CoreProtect has been successfully enabled!
+13.09 07:53:53 [Server] Server thread/INFO [CoreProtect] Using SQLite for data storage.
+13.09 07:53:53 [Server] Server thread/INFO [OreReplacerPlugin] Enabling OreReplacerPlugin v1.0.1.13.16a
+13.09 07:53:53 [Server] Server thread/INFO [OreReplacer] : world name - world added!
+13.09 07:53:53 [Server] Server thread/INFO [OreReplacer] : world name - world_nether added!
+13.09 07:53:53 [Server] Server thread/INFO [OreReplacer] : world name - world_the_end added!
+13.09 07:53:53 [Server] Server thread/INFO [OreReplacerPlugin] OreReplacerPlugin version 1.0.1.13.16a is enabled!
+13.09 07:53:53 [Server] Server thread/INFO [SAML] Enabling SAML v1.3.5
+13.09 07:53:53 [Server] Server thread/INFO [SAML] Loading config.yml...
+13.09 07:53:53 [Server] Server thread/INFO [SAML] Successfully loaded config.yml.
+13.09 07:53:53 [Server] Server thread/INFO [SAML] Loading messages.yml...
+13.09 07:53:53 [Server] Server thread/INFO [SAML] Successfully loaded messages.yml.
+13.09 07:53:53 [Server] Server thread/INFO [SAML] Successfully enabled.
+13.09 07:53:53 [Server] Server thread/INFO [GroupManager] Enabling GroupManager v0.2.0
+13.09 07:53:53 [Server] Server thread/INFO GroupManager - INFO - World Found: survival
+13.09 07:53:53 [Server] Server thread/INFO GroupManager - INFO - World Found: world
+13.09 07:53:53 [Server] Server thread/INFO GroupManager - INFO - World Found: lobby
+13.09 07:53:53 [Server] Server thread/INFO GroupManager - INFO - World Found: donorhall
+13.09 07:53:53 [Server] Server thread/INFO GroupManager - INFO - World Found: creative
+13.09 07:53:53 [Server] Server thread/INFO GroupManager - INFO - Superperms support enabled.
+13.09 07:53:53 [Server] Server thread/INFO GroupManager - INFO - Scheduled Data Saving is set for every 10 minutes!
+13.09 07:53:53 [Server] Server thread/INFO GroupManager - INFO - Backups will be retained for 24 hours!
+13.09 07:53:53 [Server] Server thread/INFO GroupManager version 0.2.0 is enabled!
+13.09 07:53:53 [Server] Server thread/INFO WEPIF: GroupManager detected! Using GroupManager for permissions.
+13.09 07:53:53 [Server] Server thread/INFO [Vault][Permission] GroupManager hooked.
+13.09 07:53:53 [Server] Server thread/INFO [Vault] [Vault][Chat] GroupManager - Chat hooked.
+13.09 07:53:53 [Server] Server thread/INFO [NametagEdit] Enabling NametagEdit v4.4.0
+13.09 07:53:53 [Server] Server thread/INFO [NametagEdit] Found GroupManager! Hooking in.
+13.09 07:53:53 [Server] Server thread/INFO [Horizon] Enabling Horizon v1.4.6-Hotfix#8
+13.09 07:53:53 [Server] Server thread/INFO (H-INFO) | Checking server version...
+13.09 07:53:53 [Server] Server thread/INFO (H-INFO) | Found server version: v1_14_R1
+13.09 07:53:53 [Server] Server thread/INFO (H-INFO) | Loading configuration files...
+13.09 07:53:53 [Server] Server thread/INFO (H-INFO) | Registering commands...
+13.09 07:53:53 [Server] Server thread/INFO (H-INFO) | Enabling utilities...
+13.09 07:53:53 [Server] Server thread/INFO (H-INFO) | Enabling checks...
+13.09 07:53:53 [Server] Server thread/INFO (H-INFO) | Horizon(1.4.6-Hotfix#8) is now fully loaded.
+13.09 07:53:53 [Server] Server thread/INFO (H-INFO) | Full startup took 0.063 second(s)
+13.09 07:53:53 [Server] Server thread/INFO (H-INFO) | Thanks for using Horizon :)
+13.09 07:53:53 [Server] Server thread/INFO (H-INFO) | If you think Horizon is good, don't forget to leave a good review!
+13.09 07:53:53 [Server] Server thread/INFO [WorldGuard] Enabling WorldGuard v7.0.0;02b731f
+13.09 07:53:53 [Server] Server thread/INFO [WorldGuard] (world) TNT ignition is PERMITTED.
+13.09 07:53:53 [Server] Server thread/INFO [WorldGuard] (world) Lighters are PERMITTED.
+13.09 07:53:53 [Server] Server thread/INFO [WorldGuard] (world) Lava fire is blocked.
+13.09 07:53:53 [Server] Server thread/INFO [WorldGuard] (world) Fire spread is UNRESTRICTED.
+13.09 07:53:53 [Server] Server thread/INFO [WorldGuard] Loaded configuration for world 'world'
+13.09 07:53:53 [Server] Server thread/INFO [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+13.09 07:53:53 [Server] Server thread/INFO [WorldGuard] (world_nether) Lighters are PERMITTED.
+13.09 07:53:53 [Server] Server thread/INFO [WorldGuard] (world_nether) Lava fire is blocked.
+13.09 07:53:53 [Server] Server thread/INFO [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+13.09 07:53:54 [Server] Server thread/INFO [WorldGuard] Loaded configuration for world 'world_nether'
+13.09 07:53:54 [Server] Server thread/INFO [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+13.09 07:53:54 [Server] Server thread/INFO [WorldGuard] (world_the_end) Lighters are PERMITTED.
+13.09 07:53:54 [Server] Server thread/INFO [WorldGuard] (world_the_end) Lava fire is blocked.
+13.09 07:53:54 [Server] Server thread/INFO [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+13.09 07:53:54 [Server] Server thread/INFO [WorldGuard] Loaded configuration for world 'world_the_end'
+13.09 07:53:54 [Server] Server thread/INFO [WorldGuard] Loading region data...
+13.09 07:53:54 [Server] Server thread/INFO [LibsDisguises] Enabling LibsDisguises v9.1.2
+13.09 07:53:54 [Server] Server thread/ERROR Error occurred while enabling LibsDisguises v9.1.2 (Is it up to date?)
+13.09 07:53:54 [Server] INFO java.lang.NoClassDefFoundError: org/apache/commons/lang3/tuple/Pair
+13.09 07:53:54 [Server] INFO at me.libraryaddict.disguise.LibsDisguises.onEnable(LibsDisguises.java:73) ~[?:?]
+13.09 07:53:54 [Server] INFO at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+13.09 07:53:54 [Server] INFO at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:352) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+13.09 07:53:54 [Server] INFO at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:417) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+13.09 07:53:54 [Server] INFO at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugin(CraftServer.java:461) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+13.09 07:53:54 [Server] INFO at org.bukkit.craftbukkit.v1_14_R1.CraftServer.enablePlugins(CraftServer.java:375) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+13.09 07:53:54 [Server] INFO at net.minecraft.server.v1_14_R1.MinecraftServer.a(MinecraftServer.java:449) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+13.09 07:53:54 [Server] INFO at net.minecraft.server.v1_14_R1.DedicatedServer.init(DedicatedServer.java:258) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+13.09 07:53:54 [Server] INFO at net.minecraft.server.v1_14_R1.MinecraftServer.run(MinecraftServer.java:776) [spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+13.09 07:53:54 [Server] INFO at java.lang.Thread.run(Thread.java:748) [?:1.8.0_212]
+13.09 07:53:54 [Server] INFO Caused by: java.lang.ClassNotFoundException: org.apache.commons.lang3.tuple.Pair
+13.09 07:53:54 [Server] INFO at java.net.URLClassLoader.findClass(URLClassLoader.java:382) ~[?:1.8.0_212]
+13.09 07:53:54 [Server] INFO at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:135) ~[spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+13.09 07:53:54 [Server] INFO at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:81) ~[spigot-1.14.4.jar:git-Spigot-9de398a-9c887d4]
+13.09 07:53:54 [Server] INFO at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_212]
+13.09 07:53:54 [Server] INFO at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_212]
+13.09 07:53:54 [Server] INFO ... 10 more
+13.09 07:53:54 [Server] Server thread/INFO [DiamondHunter] Enabling DiamondHunter v3.0.1
+13.09 07:53:54 [Server] Server thread/INFO [DiamondHunter] Diamond Hunter has been enabled
+13.09 07:53:54 [Server] Server thread/INFO [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v1.13-breaking
+13.09 07:53:54 [Server] Server thread/INFO [NoMobGriefing] Enabling NoMobGriefing v0.2.1
+13.09 07:53:54 [Server] Server thread/INFO [NoMobGriefing] ***NoMobGriefing plugin by PinkNeonDino has been enabled.***
+13.09 07:53:54 [Server] Server thread/INFO [NoteBlockAPI] Enabling NoteBlockAPI v1.4.4
+13.09 07:53:54 [Server] Server thread/INFO [ConditionalCommands] Enabling ConditionalCommands v1.5
+13.09 07:53:54 [Server] Server thread/INFO [ConditionalCommands] Initializing placeholders...
+13.09 07:53:54 [Server] Server thread/INFO [ConditionalCommands] Ready.
+13.09 07:53:54 [Server] Server thread/INFO [NewGods] Enabling NewGods v2.3.3
+13.09 07:53:54 [Server] Server thread/INFO [NewGods] NewGods has been enabled! Version:2.3.3
+13.09 07:53:54 [Server] Server thread/INFO [Essentials] Enabling Essentials v2.17.0.0
+13.09 07:53:54 [Server] Server thread/ERROR [Essentials] You are running an unsupported server version!
+13.09 07:53:54 [Server] Server thread/INFO Attempting to convert old kits in config.yml to new kits.yml
+13.09 07:53:54 [Server] Server thread/INFO No kits found to migrate.
+13.09 07:53:54 [Server] Server thread/INFO [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+13.09 07:53:54 [Server] Server thread/INFO [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+13.09 07:53:54 [Server] Server thread/INFO [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+13.09 07:53:55 [Server] Server thread/INFO Loaded 20977 items from items.json.
+13.09 07:53:55 [Server] Server thread/INFO Using locale en_US
+13.09 07:53:55 [Server] Server thread/INFO [Essentials] ServerListPingEvent: Spigot iterator API
+13.09 07:53:55 [Server] Server thread/INFO [Essentials] Starting Metrics. Opt-out using the global bStats config.
+13.09 07:53:55 [Server] Server thread/INFO [Vault] [Vault][Economy] Essentials Economy hooked.
+13.09 07:53:55 [Server] Server thread/INFO [Essentials] Using Vault based permissions (GroupManager)
+13.09 07:53:55 [Server] Server thread/INFO [UltraCosmetics] Enabling UltraCosmetics v2.5.5
+13.09 07:53:55 [Server] Startup 09/13/2019 - UltraCosmetics [INFO]: -------------------------------------------------------------------
+13.09 07:53:55 [Server] Startup 09/13/2019 - UltraCosmetics [INFO]: UltraCosmetics v2.5.5 is loading... (server: 1.14.4)
+13.09 07:53:55 [Server] Startup 09/13/2019 - UltraCosmetics [INFO]: Thanks for downloading it!
+13.09 07:53:55 [Server] Startup 09/13/2019 - UltraCosmetics [INFO]: Plugin by iSach.
+13.09 07:53:55 [Server] Startup 09/13/2019 - UltraCosmetics [INFO]: Link: http://bit.ly/UltraCosmetics
+13.09 07:53:55 [Server] Startup 09/13/2019 - UltraCosmetics [INFO]: Initializing module v1_14_R1
+13.09 07:53:55 [Server] Startup 09/13/2019 - UltraCosmetics [INFO]: bStats enabled!
+13.09 07:53:55 [Server] Startup 09/13/2019 - UltraCosmetics [INFO]: Module initialized
+13.09 07:53:56 [Server] Startup 09/13/2019 - UltraCosmetics [INFO]: 
+13.09 07:53:56 [Server] Startup 09/13/2019 - UltraCosmetics [INFO]: Hooked into Vault for economy: Essentials Economy
+13.09 07:53:56 [Server] Startup 09/13/2019 - UltraCosmetics [INFO]: 
+13.09 07:53:56 [Server] Startup 09/13/2019 - UltraCosmetics [INFO]: UltraCosmetics successfully finished loading and is now enabled!
+13.09 07:53:56 [Server] Startup 09/13/2019 - UltraCosmetics [INFO]: -------------------------------------------------------------------
+13.09 07:53:56 [Server] Server thread/INFO [Jobs] Enabling Jobs v4.13.1
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 8 titles!
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 75 protected blocks timers!
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 989 custom item names!
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 65 custom entity names!
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 37 custom enchant names!
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 16 custom color names!
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 4 shop items!
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 1 quests for Woodcutter
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 1 quests for Miner
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 1 quests for Builder
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 1 quests for Digger
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 1 quests for Farmer
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 1 quests for Hunter
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 1 quests for Explorer
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 1 quests for Crafter
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 1 quests for Fisherman
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 1 quests for Weaponsmith
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 1 quests for Brewer
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 1 quests for Enchanter
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 12 jobs!
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Explorer job manager registered!
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Loaded 36 furnaces and 7 brewing stands for reassigning.
+13.09 07:53:58 [Server] Jobs-DatabaseSaveTask/INFO [Jobs] Started database save task.
+13.09 07:53:58 [Server] Jobs-BufferedPaymentThread/INFO [Jobs] Started buffered payment thread.
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Preloaded 14 players data in 0.0
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] mcMMO2.1.106 was found - Enabling capabilities.
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] Registered McMMO 2.x listener
+13.09 07:53:58 [Server] Server thread/INFO [Jobs] WorldGuard detected.
+13.09 07:53:59 [Server] Server thread/INFO [Jobs] Loading (100000) BP
+13.09 07:53:59 [Server] Server thread/INFO [Jobs] Loading (200000) BP
+13.09 07:53:59 [Server] Server thread/INFO [Jobs] Loading (300000) BP
+13.09 07:53:59 [Server] Server thread/INFO [Jobs] Loaded 352516 block protection entries. 19
+13.09 07:53:59 [Server] Server thread/INFO [Jobs] Loading explorer data
+13.09 07:53:59 [Server] Server thread/INFO [Jobs] Loaded explorer data (4828)
+13.09 07:53:59 [Server] Server thread/INFO [Jobs] Plugin has been enabled successfully.
+13.09 07:53:59 [Server] Server thread/INFO [PerWorldInventory] Enabling PerWorldInventory v2.3.1
+13.09 07:53:59 [Server] Server thread/INFO [BuycraftX] Enabling BuycraftX v12.0.2
+13.09 07:53:59 [Server] Server thread/INFO [BuycraftX] Validating your server key...
+13.09 07:54:00 [Server] Server thread/INFO [BuycraftX] Fetching all server packages...
+13.09 07:54:00 [Server] Server thread/INFO [Multiverse-Core] Enabling Multiverse-Core v4.1.0-b775
+13.09 07:54:00 [Server] Server thread/WARN [Multiverse-Core] "Multiverse-Core v4.1.0-b775" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [Rigby, fernferret, lithium3141, main--, dumptruckman].
+13.09 07:54:00 [Server] Server thread/INFO [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do. The performance impact is negligible.
+13.09 07:54:00 [Server] Server thread/INFO -------- World Settings For [lobby] --------
+13.09 07:54:00 [Server] Server thread/INFO Mob Spawn Range: 6
+13.09 07:54:00 [Server] Server thread/INFO Experience Merge Radius: 3.0
+13.09 07:54:00 [Server] Server thread/INFO Cactus Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO Cane Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO Melon Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO Mushroom Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO Pumpkin Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO Sapling Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO Beetroot Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO Carrot Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO Potato Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO Wheat Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO NetherWart Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO Vine Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO Cocoa Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO Bamboo Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO SweetBerry Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO Kelp Growth Modifier: 100%
+13.09 07:54:00 [Server] Server thread/INFO Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+13.09 07:54:00 [Server] Server thread/INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+13.09 07:54:00 [Server] Server thread/INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+13.09 07:54:00 [Server] Server thread/INFO Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+13.09 07:54:00 [Server] Server thread/INFO Max TNT Explosions: 100
+13.09 07:54:00 [Server] Server thread/INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+13.09 07:54:00 [Server] Server thread/INFO View Distance: 16
+13.09 07:54:00 [Server] Server thread/INFO Allow Zombie Pigmen to spawn from portal blocks: true
+13.09 07:54:00 [Server] Server thread/INFO Item Despawn Rate: 6000
+13.09 07:54:00 [Server] Server thread/INFO Item Merge Radius: 2.5
+13.09 07:54:00 [Server] Server thread/INFO Arrow Despawn Rate: 1200
+13.09 07:54:00 [Server] Server thread/INFO Zombie Aggressive Towards Villager: true
+13.09 07:54:00 [Server] Server thread/INFO Nerfing mobs spawned from spawners: false
+13.09 07:54:00 [Server] Server thread/INFO Preparing start region for dimension 'lobby'/minecraft:overworld
+13.09 07:54:00 [Server] Server thread/INFO Preparing spawn area: 0%
+13.09 07:54:01 [Server] Server thread/INFO Time elapsed: 422 ms
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] (lobby) TNT ignition is PERMITTED.
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] (lobby) Lighters are PERMITTED.
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] (lobby) Lava fire is blocked.
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] (lobby) Fire spread is UNRESTRICTED.
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] Loaded configuration for world 'lobby'
+13.09 07:54:01 [Server] Server thread/INFO -------- World Settings For [donorhall] --------
+13.09 07:54:01 [Server] Server thread/INFO Mob Spawn Range: 6
+13.09 07:54:01 [Server] Server thread/INFO Experience Merge Radius: 3.0
+13.09 07:54:01 [Server] Server thread/INFO Cactus Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Cane Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Melon Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Mushroom Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Pumpkin Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Sapling Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Beetroot Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Carrot Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Potato Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Wheat Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO NetherWart Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Vine Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Cocoa Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Bamboo Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO SweetBerry Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Kelp Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+13.09 07:54:01 [Server] Server thread/INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+13.09 07:54:01 [Server] Server thread/INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+13.09 07:54:01 [Server] Server thread/INFO Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+13.09 07:54:01 [Server] Server thread/INFO Max TNT Explosions: 100
+13.09 07:54:01 [Server] Server thread/INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+13.09 07:54:01 [Server] Server thread/INFO View Distance: 16
+13.09 07:54:01 [Server] Server thread/INFO Allow Zombie Pigmen to spawn from portal blocks: true
+13.09 07:54:01 [Server] Server thread/INFO Item Despawn Rate: 6000
+13.09 07:54:01 [Server] Server thread/INFO Item Merge Radius: 2.5
+13.09 07:54:01 [Server] Server thread/INFO Arrow Despawn Rate: 1200
+13.09 07:54:01 [Server] Server thread/INFO Zombie Aggressive Towards Villager: true
+13.09 07:54:01 [Server] Server thread/INFO Nerfing mobs spawned from spawners: false
+13.09 07:54:01 [Server] Server thread/INFO Preparing start region for dimension 'donorhall'/minecraft:overworld
+13.09 07:54:01 [Server] Server thread/INFO Preparing spawn area: 0%
+13.09 07:54:01 [Server] Server thread/INFO Time elapsed: 165 ms
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] (donorhall) TNT ignition is PERMITTED.
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] (donorhall) Lighters are PERMITTED.
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] (donorhall) Lava fire is blocked.
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] (donorhall) Fire spread is UNRESTRICTED.
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] Loaded configuration for world 'donorhall'
+13.09 07:54:01 [Server] Server thread/INFO -------- World Settings For [creative] --------
+13.09 07:54:01 [Server] Server thread/INFO Mob Spawn Range: 6
+13.09 07:54:01 [Server] Server thread/INFO Experience Merge Radius: 3.0
+13.09 07:54:01 [Server] Server thread/INFO Cactus Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Cane Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Melon Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Mushroom Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Pumpkin Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Sapling Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Beetroot Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Carrot Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Potato Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Wheat Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO NetherWart Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Vine Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Cocoa Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Bamboo Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO SweetBerry Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Kelp Growth Modifier: 100%
+13.09 07:54:01 [Server] Server thread/INFO Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+13.09 07:54:01 [Server] Server thread/INFO Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+13.09 07:54:01 [Server] Server thread/INFO Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+13.09 07:54:01 [Server] Server thread/INFO Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+13.09 07:54:01 [Server] Server thread/INFO Max TNT Explosions: 100
+13.09 07:54:01 [Server] Server thread/INFO Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+13.09 07:54:01 [Server] Server thread/INFO View Distance: 16
+13.09 07:54:01 [Server] Server thread/INFO Allow Zombie Pigmen to spawn from portal blocks: true
+13.09 07:54:01 [Server] Server thread/INFO Item Despawn Rate: 6000
+13.09 07:54:01 [Server] Server thread/INFO Item Merge Radius: 2.5
+13.09 07:54:01 [Server] Server thread/INFO Arrow Despawn Rate: 1200
+13.09 07:54:01 [Server] Server thread/INFO Zombie Aggressive Towards Villager: true
+13.09 07:54:01 [Server] Server thread/INFO Nerfing mobs spawned from spawners: false
+13.09 07:54:01 [Server] Server thread/INFO [P2] Detected world load for 'creative'
+13.09 07:54:01 [Server] Server thread/INFO [P2]  - generator: PlotSquared>PlotSquared
+13.09 07:54:01 [Server] Server thread/INFO [P2]  - plotworld: com.github.intellectualsites.plotsquared.plot.generator.HybridPlotWorld
+13.09 07:54:01 [Server] Server thread/INFO [P2]  - plotAreaManager: com.github.intellectualsites.plotsquared.plot.generator.HybridPlotManager
+13.09 07:54:01 [Server] Server thread/INFO - Dumping settings for ClassicPlotWorld with name creative
+13.09 07:54:01 [Server] Server thread/INFO -- road_schematic_enabled = false
+13.09 07:54:01 [Server] Server thread/INFO -- plot_schematic = false
+13.09 07:54:01 [Server] Server thread/INFO -- plot_schematic_height = -1
+13.09 07:54:01 [Server] Server thread/INFO -- path_width_lower = 0
+13.09 07:54:01 [Server] Server thread/INFO -- path_width_upper = 0
+13.09 07:54:01 [Server] Server thread/INFO -- schem_y = 0
+13.09 07:54:01 [Server] Server thread/INFO -- road_height = 100
+13.09 07:54:01 [Server] Server thread/INFO -- plot_height = 100
+13.09 07:54:01 [Server] Server thread/INFO -- wall_height = 100
+13.09 07:54:01 [Server] Server thread/INFO -- main_block = stone:100
+13.09 07:54:01 [Server] Server thread/INFO -- top_block = grass_block:100
+13.09 07:54:01 [Server] Server thread/INFO -- wall_block = stone_slab:100
+13.09 07:54:01 [Server] Server thread/INFO -- claimed_wall_block = sandstone_slab:100
+13.09 07:54:01 [Server] Server thread/INFO -- wall_filling = stone:100
+13.09 07:54:01 [Server] Server thread/INFO -- road_block = quartz_block:100
+13.09 07:54:01 [Server] Server thread/INFO -- plot_bedrock = true
+13.09 07:54:01 [Server] Server thread/INFO -- plot_width = 100
+13.09 07:54:01 [Server] Server thread/INFO -- road_width = 7
+13.09 07:54:01 [Server] Server thread/INFO -- road_offset_x = 0
+13.09 07:54:01 [Server] Server thread/INFO -- road_offset_z = 0
+13.09 07:54:01 [Server] Server thread/INFO -- size = 107
+13.09 07:54:01 [Server] Server thread/INFO -- worldname = creative
+13.09 07:54:01 [Server] Server thread/INFO -- id = null
+13.09 07:54:01 [Server] Server thread/INFO -- manager = com.github.intellectualsites.plotsquared.plot.generator.HybridPlotManager@35392719
+13.09 07:54:01 [Server] Server thread/INFO -- worldhash = 1820422063
+13.09 07:54:01 [Server] Server thread/INFO -- max_plot_members = 128
+13.09 07:54:01 [Server] Server thread/INFO -- auto_merge = false
+13.09 07:54:01 [Server] Server thread/INFO -- allow_signs = true
+13.09 07:54:01 [Server] Server thread/INFO -- misc_spawn_unowned = false
+13.09 07:54:01 [Server] Server thread/INFO -- mob_spawning = false
+13.09 07:54:01 [Server] Server thread/INFO -- mob_spawner_spawning = false
+13.09 07:54:01 [Server] Server thread/INFO -- plot_biome = FOREST
+13.09 07:54:01 [Server] Server thread/INFO -- plot_chat = false
+13.09 07:54:01 [Server] Server thread/INFO -- schematic_claim_specify = false
+13.09 07:54:01 [Server] Server thread/INFO -- schematic_on_claim = false
+13.09 07:54:01 [Server] Server thread/INFO -- schematic_file = null
+13.09 07:54:01 [Server] Server thread/INFO -- schematics = []
+13.09 07:54:01 [Server] Server thread/INFO -- default_flags = {}
+13.09 07:54:01 [Server] Server thread/INFO -- use_economy = false
+13.09 07:54:01 [Server] Server thread/INFO -- prices = {}
+13.09 07:54:01 [Server] Server thread/INFO -- spawn_eggs = false
+13.09 07:54:01 [Server] Server thread/INFO -- spawn_custom = true
+13.09 07:54:01 [Server] Server thread/INFO -- spawn_breeding = false
+13.09 07:54:01 [Server] Server thread/INFO -- world_border = false
+13.09 07:54:01 [Server] Server thread/INFO -- type = 0
+13.09 07:54:01 [Server] Server thread/INFO -- terrain = 0
+13.09 07:54:01 [Server] Server thread/INFO -- home_allow_nonmember = true
+13.09 07:54:01 [Server] Server thread/INFO -- nonmember_home = null
+13.09 07:54:01 [Server] Server thread/INFO -- default_home = null
+13.09 07:54:01 [Server] Server thread/INFO -- max_build_height = 256
+13.09 07:54:01 [Server] Server thread/INFO -- min_build_height = 1
+13.09 07:54:01 [Server] Server thread/INFO -- gamemode = CREATIVE
+13.09 07:54:01 [Server] Server thread/INFO [P2]  - schematic: false
+13.09 07:54:01 [Server] Server thread/INFO World possibly already loaded: creative
+13.09 07:54:01 [Server] Server thread/INFO Preparing start region for dimension 'creative'/minecraft:overworld
+13.09 07:54:01 [Server] Server thread/INFO Preparing spawn area: 0%
+13.09 07:54:01 [Server] Server thread/INFO Time elapsed: 389 ms
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] (creative) TNT ignition is PERMITTED.
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] (creative) Lighters are PERMITTED.
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] (creative) Lava fire is blocked.
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] (creative) Fire spread is UNRESTRICTED.
+13.09 07:54:01 [Server] Server thread/INFO [WorldGuard] Loaded configuration for world 'creative'
+13.09 07:54:01 [Server] Server thread/INFO [Multiverse-Core] 6 - World(s) loaded.
+13.09 07:54:01 [Server] Server thread/INFO [Multiverse-Core] Version 4.1.0-b775 (API v24) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+13.09 07:54:01 [Server] Server thread/INFO [Multiverse-Core] Help dumptruckman keep this project alive. Become a patron! https://www.patreon.com/dumptruckman
+13.09 07:54:01 [Server] Server thread/INFO [Multiverse-Core] One time donations are also appreciated: https://www.paypal.me/dumptruckman
+13.09 07:54:01 [Server] Server thread/INFO [Holograms] Enabling Holograms v2.9.1-SNAPSHOT
+13.09 07:54:01 [Server] Server thread/INFO [Holograms] HologramEntityController set to: com.sainttx.holograms.nms.v1_14_R1.HologramEntityControllerImpl
+13.09 07:54:01 [Server] Server thread/INFO [Citizens] Enabling Citizens v2.0.25-SNAPSHOT (build 1745)
+13.09 07:54:01 [Server] Server thread/INFO [EssentialsChat] Enabling EssentialsChat v2.17.0.0
+13.09 07:54:01 [Server] Server thread/INFO [TreeAssist] Enabling TreeAssist v6.0.72
+13.09 07:54:01 [Server] Server thread/INFO [TreeAssist] debugging: off
+13.09 07:54:01 [Server] Server thread/INFO [EssentialsSpawn] Enabling EssentialsSpawn v2.17.0.0
+13.09 07:54:01 [Server] Server thread/INFO [MobHunting] Enabling MobHunting v6.8.9
+13.09 07:54:02 [Server] Server thread/INFO [MobHunting] Your config version is 1
+13.09 07:54:02 [Server] Server thread/INFO [MobHunting] Existing config.yml loaded.
+13.09 07:54:02 [Server] Server thread/INFO [MobHunting] Config.yml was backed up to plugins/MobHunting/backup/config.yml.bak117
+13.09 07:54:02 [Server] Server thread/INFO [MobHunting] Enabling compatibility with Essentials (2.17.0.0)
+13.09 07:54:02 [Server] Server thread/INFO [MobHunting] MobHunting is using Essentials Economy via Vault as Economy Provider
+13.09 07:54:02 [Server] Server thread/INFO [MobHunting] Database version 7 detected.
+13.09 07:54:02 [Server] Server thread/INFO [MobHunting] Enabling compatibility with WorldEdit (7.0.1;61bc012)
+13.09 07:54:02 [Server] Server thread/INFO [MobHunting] Enabling compatibility with WorldGuard (7.0.0;02b731f)
+13.09 07:54:02 [Server] Server thread/INFO [MobHunting] Enabling compatibility with Holograms (2.9.1-SNAPSHOT).
+13.09 07:54:02 [Server] Server thread/INFO [MobHunting] Enabling compatibility with McMMO (2.1.106)
+13.09 07:54:02 [Server] Server thread/INFO [MobHunting] McMMO Level rewards is enabled
+13.09 07:54:02 [Server] Server thread/INFO [MobHunting] Enabling compatibility with ProtocolLib (4.4.0).
+13.09 07:54:02 [Server] Server thread/INFO [MobHunting] Enabling compatibility with LibsDisguises (9.1.2)
+13.09 07:54:02 [Server] Server thread/INFO [MobHunting] Enabling compatibility with Citizens2 (2.0.25-SNAPSHOT (build 1745))
+13.09 07:54:02 [Server] Server thread/INFO [CompatNoCheatPlus] Enabling CompatNoCheatPlus v6.6.5-RC-sMD5NET-b90
+13.09 07:54:02 [Server] Server thread/INFO [cncp] Registered hook(NCPHook might get added later): Citizens2(default) / 2.2
+13.09 07:54:02 [Server] Server thread/INFO [cncp] Registered hook(NCPHook might get added later): mcMMO(default) / 2.1
+13.09 07:54:02 [Server] Server thread/INFO [cncp] Registered hook(NCPHook might get added later): BlockBreak(default) / 1.1
+13.09 07:54:02 [Server] Server thread/INFO [cncp] Registered hook(NCPHook might get added later): BlockPlace(default) / 1.0
+13.09 07:54:02 [Server] Server thread/INFO [cncp] Registered hook(NCPHook might get added later): InstaBreak(default) / 1.0
+13.09 07:54:02 [Server] Server thread/INFO [cncp] Registered hook(NCPHook might get added later): EntityDamageByEntity(default) / 0.0
+13.09 07:54:02 [Server] Server thread/INFO [cncp] Registered hook(NCPHook might get added later): Interact(default) / 1.0
+13.09 07:54:02 [Server] Server thread/INFO [CompatNoCheatPlus] CompatNoCheatPlus v6.6.5-RC-sMD5NET-b90 is enabled. Some hooks might get registered with NoCheatPlus later on.
+13.09 07:54:02 [Server] Server thread/INFO [WarpSystem] Enabling WarpSystem v3.1.13
+13.09 07:54:03 [Server] Server thread/INFO __________________________________________________________
+13.09 07:54:03 [Server] Server thread/INFO WarpSystem [3.1.13]
+13.09 07:54:03 [Server] Server thread/INFO Status:
+13.09 07:54:03 [Server] Server thread/INFO MC-Version: v1_14
+13.09 07:54:03 [Server] Server thread/INFO Loading features
+13.09 07:54:03 [Server] Server thread/INFO > Loading Icons
+13.09 07:54:03 [Server] Server thread/INFO > Loading background
+13.09 07:54:03 [Server] Server thread/INFO ...got 1 background
+13.09 07:54:03 [Server] Server thread/INFO > Loading Categories
+13.09 07:54:03 [Server] Server thread/INFO ...got 0 Categories
+13.09 07:54:03 [Server] Server thread/INFO > Loading Warps
+13.09 07:54:03 [Server] Server thread/INFO ...got 3 Warp(s)
+13.09 07:54:03 [Server] Server thread/INFO > Check each Category of all Warps
+13.09 07:54:03 [Server] Server thread/INFO > Loading GlobalWarps
+13.09 07:54:03 [Server] Server thread/INFO ...got 0 GlobalWarp(s)
+13.09 07:54:03 [Server] Server thread/INFO > Loading Deco
+13.09 07:54:03 [Server] Server thread/INFO ...got 0 DecoIcon(s)
+13.09 07:54:03 [Server] Server thread/INFO > Replacing "_" to " " for 0 icons
+13.09 07:54:03 [Server] Server thread/INFO > Loading SimpleWarps
+13.09 07:54:03 [Server] Server thread/INFO ...got 7 SimpleWarp(s)
+13.09 07:54:03 [Server] Server thread/INFO > Loading Portals (from Portals)
+13.09 07:54:03 [Server] Server thread/INFO ...got 0 Portal(s)
+13.09 07:54:03 [Server] Server thread/INFO > Verify that worlds are available
+13.09 07:54:03 [Server] Server thread/INFO > Verify that portals are enabled
+13.09 07:54:03 [Server] Server thread/INFO > Loading NativePortals
+13.09 07:54:03 [Server] Server thread/INFO ...got 5 NativePortal(s)
+13.09 07:54:03 [Server] Server thread/INFO > Loading Shortcuts
+13.09 07:54:03 [Server] Server thread/INFO ...got 0 Shortcut(s)
+13.09 07:54:03 [Server] Server thread/INFO > Loading TempWarps
+13.09 07:54:03 [Server] Server thread/INFO > Loading Warps
+13.09 07:54:03 [Server] Server thread/INFO ...got 0 TempWarp(s)
+13.09 07:54:03 [Server] Server thread/INFO > Loading WarpSigns
+13.09 07:54:03 [Server] Server thread/INFO ...got 0 WarpSign(s)
+13.09 07:54:03 [Server] Server thread/INFO Loading TeleportManager
+13.09 07:54:03 [Server] Server thread/INFO Starting AutoSaver
+13.09 07:54:03 [Server] Startup Done (0.901s)
+13.09 07:54:03 [Server] Server thread/INFO __________________________________________________________
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] Enabling NoCheatPlus v3.16.1-SNAPSHOT-b5.1.1
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] McAccess set to: 1.13-1.14.4|? / Bukkit-API
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] Added block-info for Minecraft 1.5 blocks.
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] Added block-info for Minecraft 1.6.1 blocks.
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] Added block-info for Minecraft 1.7.2 blocks.
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] Added block-info for Minecraft 1.8 blocks.
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] Added block-info for Minecraft 1.9 blocks.
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] Added block-info for Minecraft 1.10 blocks.
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] Added block-info for Minecraft 1.11 blocks.
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] Added block-info for Minecraft 1.12 blocks.
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] Added block-info for Minecraft 1.13 blocks.
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] Added block-info for Minecraft 1.14 blocks.
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+13.09 07:54:03 [Server] Server thread/WARN [NoCheatPlus] Packet level access via ProtocolLib not available, supported configurations:  | ProtocolLib 4.5.0 or later for Minecraft 1.14.x | ProtocolLib 4.4.0 or later for Minecraft 1.13.x | ProtocolLib 4.3.0 or later for Minecraft 1.12.x | ProtocolLib 4.2.0 or later for Minecraft 1.11.x | ProtocolLib 4.1 or later for Minecraft 1.8.x to 1.10.x | ProtocolLib 3.7.0 for Minecraft 1.7.x and earlier | ProtocolLib 3.6.6 for PaperSpigot 1.8.x
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] Force disable FastHeal on Minecraft 1.9 and later.
+13.09 07:54:03 [Server] Server thread/INFO [NoCheatPlus] Version 3.16.1-SNAPSHOT-b5.1.1 is enabled.
+13.09 07:54:03 [Server] Server thread/INFO [CompatNoCheatPlus] [cncp] Added 2 registered hooks to NoCheatPlus.
+13.09 07:54:03 [Server] Server thread/INFO Server permissions file permissions.yml is empty, ignoring it
+13.09 07:54:04 [Server] Startup Done (12.569s)! For help, type "help"
+13.09 07:54:04 [Server] Server thread/INFO [PlotSquared] -------- PlotSquared Update Check --------
+13.09 07:54:04 [Server] Server thread/INFO [PlotSquared] There appears to be a PlotSquared update available!
+13.09 07:54:04 [Server] Server thread/INFO [PlotSquared] You are running version 4.347, the newest available version is 4.353
+13.09 07:54:04 [Server] Server thread/INFO [PlotSquared] Update URL: https://ci.athion.net/job/PlotSquared-Releases/15/artifact/target/PlotSquared-Bukkit-4.353.jar
+13.09 07:54:04 [Server] Server thread/INFO [PlotSquared] -------- PlotSquared Update Check --------
+13.09 07:54:04 [Server] Server thread/INFO [CoreProtect] WorldEdit logging successfully initialized.
+13.09 07:54:04 [Server] Server thread/INFO [Jobs] Successfully linked with Vault.
+13.09 07:54:04 [Server] Craft Scheduler Thread - 6/INFO [NoCheatPlus] Added hook: AllViolations(NCP) [1.0].
+13.09 07:54:04 [Server] Craft Scheduler Thread - 6/INFO [NoCheatPlus] Added hook: mcMMO(cncp) [2.3].
+13.09 07:54:04 [Server] Craft Scheduler Thread - 6/INFO [NoCheatPlus] Added hook: Citizens2(cncp) [2.0].
+13.09 07:54:04 [Server] Server thread/INFO [NoCheatPlus] Post-enable running...
+13.09 07:54:04 [Server] Server thread/INFO [NoCheatPlus] Post-enable finished.
+13.09 07:54:04 [Server] Server thread/INFO GroupManager - INFO - Bukkit Permissions Updated!
+13.09 07:54:04 [Server] Craft Scheduler Thread - 0/INFO [VoidGenerator] Checking SpigotMc.org for Updates on VoidGenerator... 
+13.09 07:54:04 [Server] Craft Scheduler Thread - 0/INFO [VoidGenerator] There are no updates available at this time.
+13.09 07:54:04 [Server] Server thread/WARN [Holograms] Failed to spawn hologram entity in world world_the_end at x:199969.488128218 y:92.5 z:200280.30012142714
+13.09 07:54:04 [Server] Server thread/INFO [Holograms] Loaded hologram with "Creative" with 1 lines
+13.09 07:54:04 [Server] Server thread/WARN [Holograms] Failed to spawn hologram entity in world world_the_end at x:199917.54509431942 y:93.5 z:200329.50966625454
+13.09 07:54:04 [Server] Server thread/INFO [Holograms] Loaded hologram with "Mountain" with 1 lines
+13.09 07:54:04 [Server] Server thread/WARN [Holograms] Failed to spawn hologram entity in world world_the_end at x:199971.587303291 y:92.5 z:200385.69999998808
+13.09 07:54:04 [Server] Server thread/INFO [Holograms] Loaded hologram with "PvP" with 1 lines
+13.09 07:54:04 [Server] Server thread/WARN [Holograms] Failed to spawn hologram entity in world world_the_end at x:200022.46600155625 y:92.5 z:200332.39289980876
+13.09 07:54:04 [Server] Server thread/INFO [Holograms] Loaded hologram with "Donorhall" with 1 lines
+13.09 07:54:04 [Server] Craft Scheduler Thread - 3/INFO (H-INFO) | You're using the latest version!
+13.09 07:54:05 [Server] Server thread/INFO [Citizens] Loaded 15 NPCs.
+13.09 07:54:05 [Server] Craft Scheduler Thread - 4/INFO [Vault] Checking for Updates ... 
+13.09 07:54:05 [Server] Server thread/INFO Starting UUID caching
+13.09 07:54:05 [Server] Craft Scheduler Thread - 7/INFO [BuycraftX] Fetching all due players...
+13.09 07:54:05 [Server] Craft Scheduler Thread - 6/INFO [P2] Starting player data caching for: world
+13.09 07:54:05 [Server] Craft Scheduler Thread - 6/INFO [P2] Cached a total of: 26 UUIDs
+13.09 07:54:05 [Server] Craft Scheduler Thread - 4/INFO [Vault] No new version available
+13.09 07:54:05 [Server] Craft Scheduler Thread - 7/INFO [BuycraftX] Fetched due players (0 found).
